@@ -1,7 +1,7 @@
 # :wave: Hey, I'm Nima
 
 - :man_student: :writing_hand: I'm a PhD candidate in Biostatistics at UC
-  Berkeley, mostly dissertating
+  Berkeley
 - :computer: :hammer_and_wrench: I'm currently working on statistical
   methodology and software tools for statistical causal inference
 - :man_technologist: :man_scientist: I'm looking for postdoctoral and industry
