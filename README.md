@@ -9,3 +9,5 @@
   [`tlverse` project](https://github.com/tlverse)!
 - :mailbox: Feel free to reach out on [Twitter](https://twitter.com/nshejazi)
 - :bust_in_silhouette: Pronouns: he/him/his
+
+[![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhejazi)](https://github.com/anuraghazra/github-readme-stats)
