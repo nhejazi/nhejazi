@@ -5,7 +5,8 @@
 - :man_technologist: I'm looking for postdoctoral/industry opportunities that
   mix causal inference with statistical machine learning.
 - :computer: Looking for software tools for causal machine learning? Check out
-  our [`tlverse` software ecosystem](https://github.com/tlverse)!
+  our [`tlverse` project](https://github.com/tlverse) and [its
+  handbook](https://tlverse.org/tlverse-handbook)!
 - :mailbox: Feel free to reach out to me [on
   Twitter](https://twitter.com/nshejazi)!
 <!--
