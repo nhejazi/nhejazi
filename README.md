@@ -1,9 +1,9 @@
 # :wave: Hey, I'm Nima
 
 - :hammer_and_wrench: I work on statistical methodology and develop software
-  packages for (nonparametric) causal inference.
-- :man_technologist: I'm looking for postdoctoral/industry opportunities in
-  causal inference and statistical machine learning.
+  for nonparametric/computational causal inference.
+- :man_technologist: I'm looking for postdoctoral or industry opportunities that
+  mix causal inference with statistical machine learning.
 - :computer: Looking for software tools for causal machine learning? Check out
   our [`tlverse` software ecosystem](https://github.com/tlverse)!
 - :mailbox: Feel free to reach out to me [on
