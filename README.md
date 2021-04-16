@@ -1,4 +1,4 @@
-## Hey, I'm Nima :metal:
+## Hey, I'm Nima
 
 - I'm wrapping up my PhD in biostatistics and will be starting a postdoctoral
   research fellowship working in statistical causal inference.
