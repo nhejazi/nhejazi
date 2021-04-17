@@ -1,4 +1,4 @@
-## hey, i'm nima :wave: ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
+## :wave: hey, i'm nima ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
 
 - i'm wrapping up my phd in biostatistics and will be starting a postdoctoral
   research fellowship working in statistical causal inference.
