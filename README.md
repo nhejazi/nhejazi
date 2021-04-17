@@ -1,6 +1,6 @@
 ## hey, i'm nima
 
-- i'm wrapping up my PhD in biostatistics and will be starting a postdoctoral
+- i'm wrapping up my phd in biostatistics and will be starting a postdoctoral
   research fellowship working in statistical causal inference.
 - i enjoy working on statistical methodology and developing software for
   nonparametric causal inference and causal machine learning.
