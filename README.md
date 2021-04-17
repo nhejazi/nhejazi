@@ -1,4 +1,4 @@
-## hey, i'm nima
+## hey, i'm nima :wave: ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
 
 - i'm wrapping up my phd in biostatistics and will be starting a postdoctoral
   research fellowship working in statistical causal inference.
@@ -8,7 +8,7 @@
   check out the [`tlverse` project](https://github.com/tlverse) and [our open
   handbook](https://tlverse.org/tlverse-handbook)!
 - if we have shared interests and you'd like to chat about them, feel free to
-  reach out [on twitter](https://twitter.com/nshejazi) or [contact
-  me](https://nimahejazi.org/#contact) directly.
+  ping me [on twitter](https://twitter.com/nshejazi) or consider just
+  [contacting me](https://nimahejazi.org/#contact) directly.
 
-[![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhejazi)](https://github.com/anuraghazra/github-readme-stats)
+![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nhejazi&show_icons=true&count_private=true&theme=radical)
