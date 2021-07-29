@@ -1,9 +1,9 @@
 ## :wave: hey, you found nima ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
 
-- i will soon be a postdoctoral researcher at Weill Cornell Medicine, working
-  in statistical causal inference. i recently completed my phd in biostatistics.
-- i enjoy working on statistical methodology and developing software for
-  nonparametric causal inference and causal machine learning.
+- i will soon start as a postdoctoral researcher working in statistical causal
+  inference.
+- i enjoy working at the intersection of causal inference, non/semi-parametric
+  estimation, and machine learning, and developing open source software.
 - are you looking for open source software for _targeted_ causal machine
   learning? check out the [`tlverse` project](https://github.com/tlverse) and
   [our handbook](https://tlverse.org/tlverse-handbook)!
