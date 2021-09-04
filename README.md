@@ -1,6 +1,6 @@
 ## :wave: hey, you found nima ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
 
-- i'm a biostatistician and postdoctoral researcher working in causal machine
+- i'm a (bio)statistician and postdoctoral researcher working in causal machine
   learning and non/semi-parametric estimation/inference.
 - i enjoy developing open source software to improve the accessibility and
   increase the adoption of cutting-edge statistical methods.
