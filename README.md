@@ -1,9 +1,9 @@
 ## :wave: I'm Nima ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
 
-- I'm a (bio)statistician and postdoctoral researcher whose work combines
-  causal machine learning and non/semi-parametric estimation.
+- I'm a (bio)statistician and postdoctoral researcher combining causal machine
+  learning with non/semi-parametric estimation.
 - I enjoy developing open source software to improve the accessibility and
-  increase the adoption of cutting-edge statistical methods.
+  increase the adoption of modern statistical techniques.
 - are you looking for open source software for _targeted_ causal machine
   learning? check out the [`tlverse` project](https://github.com/tlverse) and
   [its handbook](https://tlverse.org/tlverse-handbook)!
