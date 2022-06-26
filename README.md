@@ -1,9 +1,9 @@
 ## I'm Nima ![](https://komarev.com/ghpvc/?username=nhejazi&color=green)
 
-- I'm an academic and bio)statistician working at the interface of causal
+- I'm an academic and (bio)statistician working at the interface of causal
   inference, machine learning, and non/semi-parametric estimation.
-- I enjoy developing open source software to improve the accessibility and
-  increase the adoption of modern statistical techniques.
+- I enjoy developing open source software to help improve the accessibility
+  and adoption of modern statistical techniques.
 - are you looking for open source software for _targeted_ causal machine
   learning? check out the [`tlverse` project](https://github.com/tlverse) and
   [its handbook](https://tlverse.org/tlverse-handbook)!
