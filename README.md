@@ -3,7 +3,8 @@
 I'm an academic (bio)statistician working at the interface of causal inference,
 machine learning, and nonparametric statistics. I greatly enjoy developing open
 source software to improve the accessibility and adoption of modern methods for
-statistical inference and causal machine learning.
+statistical inference and causal machine learning. I'm particularly driven by
+applications of statistics to the biomedical and public health sciences.
 
 Are you looking for open source software for _targeted_ causal machine learning?
 Check out the [`tlverse` project](https://github.com/tlverse) and look through
