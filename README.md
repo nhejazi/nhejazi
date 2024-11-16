@@ -4,11 +4,11 @@ statistics, and computational statistics.
 
 - I currently manage the [NSH Lab](https://github.com/nshlab), which focuses on
   developing theory, methods, and open-source software for causal-analytic and 
-  statistical learning, often inspired by problems in the biomedical and public
-  health sciences
+  statistical learning, most often inspired by problems in the biomedical and
+  public health sciences.
 - I co-created and served as a core developer for the [`tlverse`
   project](https://github.com/tlverse), an open-source software ecosystem of
-  `R` packages for Targeted Learning; the project includes an open-source
+  R packages for Targeted Learning; the project includes an open-source
   [handbook](https://tlverse.org/tlverse-handbook) to guide implementation of
   the methodology.
 
