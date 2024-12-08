@@ -4,7 +4,7 @@ learning, semi-parametric estimation, statistical machine learning, and
 computational statistics.
 
 - I currently direct the [NSH Lab](https://github.com/nshlab) (pronounced like
-  "niche"), a (bio)statistical science research group that works to develop
+  "niche"), a (bio)statistical science research group that focuses on developing
   theory, methods, algorithms, and open-source software for novel causal-analytic
   and statistical learning techniques, often inspired directly by open questions
   in the biomedical and public health sciences.
