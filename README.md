@@ -1,6 +1,6 @@
 I'm an [academic (bio)statistician](https://www.hsph.harvard.edu/profile/nima-hejazi/)
-whose work sits at the interface of causal inference, de-biased/targeted machine
-learning, semi-parametric estimation, statistical machine learning, and
+whose work sits at the interface of causal inference, de-biased and/or targeted
+machine learning, semi-parametric estimation, statistical machine learning, and
 computational statistics.
 
 - I currently direct the [NSH Lab](https://github.com/nshlab) (pronounced like
