@@ -1,5 +1,5 @@
 I'm an [academic (bio)statistician](https://www.hsph.harvard.edu/profile/nima-hejazi/)
-working at the interface of causal inference, debiased and/or targeted machine
+working at the interface of causal inference, debiased/targeted machine
 learning, semi-parametric estimation, statistical machine learning, and
 computational statistics.
 
