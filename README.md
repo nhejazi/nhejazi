@@ -8,11 +8,11 @@ computational statistics.
   theory, methods, algorithms, and open-source software tools for novel
   causal-analytic and statistical learning techniques, often inspired directly
   by open questions in the biomedical and public health sciences.
-- A while ago, I co-created and served as a core developer for the [`tlverse`
+- A while ago, I co-created and served as a core developer for the [TLverse
   project](https://github.com/tlverse), an open-source software ecosystem of
   R packages for Targeted Learning; the project includes an open-source
   [handbook](https://tlverse.org/tlverse-handbook) to guide implementation of
-  the techniques. The `tlverse` project is part of the [ICTML
+  the techniques. The TLverse project is part of the [ICTML
   Project](https://www.ictml.org/), a scalable platform for machine learning
   and causal inference.
 
