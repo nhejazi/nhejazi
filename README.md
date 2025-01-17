@@ -3,8 +3,8 @@ My work sits at the interface of causal inference, de-biased and/or targeted
 machine learning, semi-parametric estimation, statistical machine learning, and
 computational statistics.
 
-- I currently direct the [NSH Lab](https://github.com/nshlab) (pronounced like
-  "niche"), a statistical science research lab focused on developing new
+- I currently lead the [NSH Lab](https://github.com/nshlab) (pronounced like
+  "niche"), a statistical science research group focused on developing new
   theory, methods, algorithms, and open-source software tools for
   causal-analytic and statistical learning techniques. Work in my group is
   usually inspired directly by and tied to open questions in the biomedical and
