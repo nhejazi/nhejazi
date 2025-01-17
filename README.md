@@ -4,10 +4,11 @@ machine learning, semi-parametric estimation, statistical machine learning, and
 computational statistics.
 
 - I lead the [NSH Lab](https://github.com/nshlab) (pronounced like "niche"), a
-  statistical science research group focused on developing new theory, methods,
-  algorithms, and open-source software tools for causal-analytic and
-  statistical learning techniques. Work in my group is usually inspired directly
-  by and tied to open questions in the biomedical and public health sciences.
+  statistical science research group that is focused on developing new theory,
+  methods, algorithms, and open-source software tools for causal-analytic and
+  statistical learning techniques. Work in my group is usually inspired
+  directly by and tied to open questions in the biomedical and public health
+  sciences.
 - A while ago, I co-created and served as a core developer for the [TLverse
   project](https://github.com/tlverse), an open-source software ecosystem of
   R packages for Targeted Learning; the project includes an open-source
