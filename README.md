@@ -7,7 +7,7 @@ computational statistics.
   a statistical science research group focused on developing novel theory,
   methods, algorithms, and open-source software for causal-analytic and
   statistical learning techniques. Work in my group is inspired directly by and
-  tied to open, real-world questions in the biomedical and public health
+  tied to data-driven, real-world questions in the biomedical and public health
   sciences.
 - A while ago, I co-created and served as a core developer for the [TLverse
   project](https://github.com/tlverse), an open-source software ecosystem of
