@@ -1,7 +1,7 @@
 I'm an [academic (bio)statistician](https://www.hsph.harvard.edu/profile/nima-hejazi/).
 My work sits at the interface of causal inference, de-biased and/or targeted
 machine learning, semi-parametric estimation, statistical machine learning, and
-computational statistics.
+computational statistics. Here are some more details:
 
 - I organize the [NSH Lab](https://github.com/nshlab) (pronounced like "niche"),
   a statistical science research group focused on developing novel theory,
@@ -13,7 +13,7 @@ computational statistics.
   project](https://github.com/tlverse), an open-source software ecosystem of
   R packages for Targeted Learning; the project includes an open-source
   [handbook](https://tlverse.org/tlverse-handbook) to guide implementation of
-  the techniques. The TLverse project is part of the [ICTML
+  the techniques. The TLverse project is a core component of the [ICTML
   Project](https://www.ictml.org/), a scalable platform for machine learning
   and causal inference.
 
