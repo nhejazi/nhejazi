@@ -11,10 +11,10 @@ computational statistics. Here are some more details:
   sciences.
 - A while ago, I co-created and served as a core developer for the [TLverse
   project](https://github.com/tlverse), an open-source software ecosystem of
-  R packages for Targeted Learning; the project includes an open-source
-  [handbook](https://tlverse.org/tlverse-handbook) to guide implementation of
-  the techniques. The TLverse project is a core component of the [ICTML
-  Project](https://www.ictml.org/), a scalable platform for machine learning
+  R packages for Targeted Learning; the project includes an [open-source
+  handbook](https://tlverse.org/tlverse-handbook) to guide implementation of
+  the techniques. The TLverse project is a core component of [Project
+  ICTML](https://www.ictml.org/), a scalable platform for machine learning
   and causal inference.
 
 ![nima's github stats](https://github-readme-stats.vercel.app/api?username=nhejazi&show_icons=true&count_private=true&theme=radical)
