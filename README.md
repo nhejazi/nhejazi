@@ -1,11 +1,11 @@
 I'm an academic [(bio)statistician and statistical
 scientist](https://nimahejazi.org/about). My work sits at the interface of
-statistical causal inference, causal (or de-biased) machine learning,
+statistical causal inference, de-biased (or causal) machine learning and
 semi-parametric estimation, statistical machine learning, and computational
 statistics.
 
-- I organize the [NSH Lab](https://github.com/nshlab) (pronounced like "niche"),
-  a statistical science research group that develops theory, methods,
+- I organize and lead the [NSH Lab](https://github.com/nshlab) (pronounced like
+  "niche"), a statistical science research group that develops theory, methods,
   algorithms, and open-source software tools to improve causal-analytic and
   statistical learning. Research in the group is motivated directly by and tied
   to data-driven questions from the applied biomedical and health sciences.
