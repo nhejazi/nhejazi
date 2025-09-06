@@ -6,10 +6,9 @@ statistics.
 
 - I organize and lead the [NSH Lab](https://github.com/nshlab) (pronounced like
   "niche"), a statistical science research group focused on developing theory,
-  methods, algorithms, and open-source software tools to improve
-  causal-analytic and statistical learning. Research in the group is motivated
-  directly by and tied to data-driven questions from the applied biomedical and
-  health sciences.
+  methods, algorithms, and open-source software to improve causal-analytic and
+  statistical learning. Research in the group is motivated directly by and tied
+  to data-driven investigations in the applied biomedical and health sciences.
 - A while ago, I co-created and served as a core developer for the [`TLverse`
   project](https://github.com/tlverse), an open-source software ecosystem of
   R packages for Targeted Learning; the project includes an [open-source
